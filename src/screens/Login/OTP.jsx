@@ -103,7 +103,7 @@ function OTP({ email, result }) {
             />
           </div>
         </div>
-        <div className="flex mt-2 items-center justify-end text-right w-full text-[1.125rem] max-md:text-[1rem] max-md:text-[16px]">
+        <div className="flex mt-2 items-center justify-end text-right w-full text-[1.125rem] max-md:text-[1rem]">
           <button
             type="button"
             tabIndex={0}
